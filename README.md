@@ -1,4 +1,4 @@
-# HOOZI DMA - APEX
+# HOOZI DMA - APEX / DTB FIX
 > DOWNLOAD https://discord.gg/6nTDrxU7XR
 
 ![1](https://raw.githubusercontent.com/orphannn/apex/main/esp_show.png)
