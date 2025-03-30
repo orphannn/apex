@@ -1,0 +1,55 @@
+{
+    "version": 3.0,
+    "bak":{
+        "status":true,
+        "notice":"[+] using Disaster recovery server"
+    },
+    "title": {
+        "zh": "HOOZi | 清明时节雨纷纷",
+        "en": "HOOZi | Tomb Sweeping Day"
+    },
+    "slogan": {
+        "zh": "我们不懂创造，只是复制粘贴。",
+        "en": "We don't create, just copy-paste."
+    },
+    "selector": [
+        {
+            "name": "apex-1.0",
+            "icon": "apex1"
+        },
+        {
+            "name": "apex-2.0",
+            "icon": "apex2"
+        }
+    ],
+    "profile": [
+        {
+            "preview": "apex1",
+            "status": "work",
+            "update": "0.41",
+            "download-base": {
+                "zh":"https://hoozi.win/down.php?file=apex-1.0-base.zip",
+                "en":"https://cloudflare-down.hoozi.cc/apex-1.0-base.zip"
+            },
+            "download": {
+                "zh":"https://hoozi.win/down.php?file=apex-1.0.zip",
+                "en":"https://cloudflare-down.hoozi.cc/apex-1.0.zip"
+            },
+            "launch": "Hoozi-Apex.exe"
+        },
+        {
+            "preview": "apex2",
+            "status": "work",
+            "update": "0.92",
+            "download-base":{
+                "zh":"https://hoozi.win/down.php?file=apex-2.0-base.zip",
+                "en":"https://cloudflare-down.hoozi.cc/apex-2.0-base.zip"
+            },
+            "download": {
+                "zh":"https://hoozi.win/down.php?file=apex-2.0.zip",
+                "en":"https://cloudflare-down.hoozi.cc/apex-2.0.zip"
+            },
+            "launch": "HLoader.exe"
+        }
+    ]
+}
