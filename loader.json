@@ -26,7 +26,7 @@
         {
             "preview": "apex1",
             "status": "work",
-            "update": "0.41",
+            "update": "0.42",
             "download-base": {
                 "zh":"https://cdn.jsdelivr.net/gh/orphannn/apex/downloads/apex-1.0-base.zip",
                 "en":"https://cdn.jsdelivr.net/gh/orphannn/apex/downloads/apex-1.0-base.zip"
@@ -40,7 +40,7 @@
         {
             "preview": "apex2",
             "status": "work",
-            "update": "0.92",
+            "update": "0.93",
             "download-base":{
                 "zh":"https://cdn.jsdelivr.net/gh/orphannn/apex/downloads/apex-2.0-base.zip",
                 "en":"https://cdn.jsdelivr.net/gh/orphannn/apex/downloads/apex-2.0-base.zip"
