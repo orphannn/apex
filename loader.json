@@ -28,12 +28,12 @@
             "status": "work",
             "update": "0.41",
             "download-base": {
-                "zh":"https://hoozi.win/down.php?file=apex-1.0-base.zip",
-                "en":"https://cloudflare-down.hoozi.cc/apex-1.0-base.zip"
+                "zh":"https://cdn.jsdelivr.net/gh/orphannn/apex/downloads/apex-1.0-base.zip",
+                "en":"https://cdn.jsdelivr.net/gh/orphannn/apex/downloads/apex-1.0-base.zip"
             },
             "download": {
-                "zh":"https://hoozi.win/down.php?file=apex-1.0.zip",
-                "en":"https://cloudflare-down.hoozi.cc/apex-1.0.zip"
+                "zh":"https://cdn.jsdelivr.net/gh/orphannn/apex/downloads/apex-1.0.zip",
+                "en":"https://cdn.jsdelivr.net/gh/orphannn/apex/downloads/apex-1.0.zip"
             },
             "launch": "Hoozi-Apex.exe"
         },
@@ -42,12 +42,12 @@
             "status": "work",
             "update": "0.92",
             "download-base":{
-                "zh":"https://hoozi.win/down.php?file=apex-2.0-base.zip",
-                "en":"https://cloudflare-down.hoozi.cc/apex-2.0-base.zip"
+                "zh":"https://cdn.jsdelivr.net/gh/orphannn/apex/downloads/apex-2.0-base.zip",
+                "en":"https://cdn.jsdelivr.net/gh/orphannn/apex/downloads/apex-2.0-base.zip"
             },
             "download": {
-                "zh":"https://hoozi.win/down.php?file=apex-2.0.zip",
-                "en":"https://cloudflare-down.hoozi.cc/apex-2.0.zip"
+                "zh":"https://cdn.jsdelivr.net/gh/orphannn/apex/downloads/apex-2.0.zip",
+                "en":"https://cdn.jsdelivr.net/gh/orphannn/apex/downloads/apex-2.0.zip"
             },
             "launch": "HLoader.exe"
         }
